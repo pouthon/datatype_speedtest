@@ -1,7 +1,6 @@
 # datatype_speedtest
 A small speed test comparison for different data object
 
-Just a tiny file published on request as per LinkedIn discussion on Arthur's post:
+Just a tiny file published on request as per LinkedIn discussion on a previous post.
 
-https://www.linkedin.com/posts/rabatin_nerdalert-nerdalert-python-activity-7126538519803514880-kKJZ?utm_source=share&utm_medium=member_desktop
-
+I deleted that LinkedIn post because of all the rubbish comments I got, which I did not want to spend any time on reading.
